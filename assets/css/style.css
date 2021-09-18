@@ -24,3 +24,34 @@
     background-color: lightgreen;
     list-style: none;
 }
+
+/*
+body {
+    background-color: silver;
+}
+
+div {
+    width: 200px;
+    height: 70px;
+    border: 2px solid grey;
+    background-color: lightblue;
+  }
+*/
+
+#slider{
+    width: 500px;
+    height: 50px;
+    background-color: gray;
+    border-radius: 5px;
+}
+
+#tumbler{
+    width: 30px;
+    height: 60px;
+    border-radius: 5px;
+    background-color: blue;
+    cursor: pointer;
+    position: relative;
+    top: -5px;
+}
+
